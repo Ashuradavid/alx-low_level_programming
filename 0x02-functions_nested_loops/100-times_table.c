@@ -1,3 +1,4 @@
+__attribute__
 include "main.h"
 
 /**
