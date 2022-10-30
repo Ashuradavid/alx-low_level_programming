@@ -43,4 +43,3 @@ char *rot13(char *);
 
 	return (str);
 }
-
